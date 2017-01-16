@@ -1,0 +1,2 @@
+# TestGitMerge
+Just a test
